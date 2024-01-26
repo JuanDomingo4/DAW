@@ -1,5 +1,5 @@
 #Estado
-Están todos los apartados
+Me falta de la primera tarea el apartado 7. No recordaba que la habia dejado sin hacer. No me da tiempo ahora
 
 #Comentarios
 
